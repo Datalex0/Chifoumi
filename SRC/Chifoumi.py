@@ -1,4 +1,14 @@
 
+'''
+Célèbre jeu du Chifoumi  
+Choisis la pierre, la feuille ou les ciseaux,
+ton adversaire fait de même,
+La Pierre écrase les Ciseaux,
+Les Ciseaux coupent la Feuille,
+La Feuille recouvre la Pierre.
+Le premier joueur à 3 points remporte la partie
+'''
+
 #variable pour recommencer le jeu
 retry = "o"
 
