@@ -1,7 +1,7 @@
 
 # Célèbre jeu du Chifoumi  
 
-### *** Règle du jeu ***
+### *** Règles du jeu ***
 Choisis entre la pierre, la feuille ou les ciseaux,  
 ton adversaire fait de même.  
   
