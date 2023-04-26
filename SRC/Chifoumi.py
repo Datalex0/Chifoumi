@@ -4,11 +4,6 @@ retry = "o"
 
 while retry == "o" :
   
-  #print("\n")
-  #print("Bienvenue au jeu du Chifoumi,") 
-  #print("le premier à 3 victoires gagne.")
-  #print("Enjoy !")
-  #print("\n")
   from art import *
   print("\n")
   tprint("Jeu du Chifoumi")
